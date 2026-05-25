@@ -1,0 +1,98 @@
+[
+  {
+    "id": "papa",
+    "nombre": "Papa",
+    "mesesSiembra": [1, 2, 8, 9],
+    "mesesCosecha": [6, 7, 12, 1],
+    "mesesFumigacion": [3, 4, 10, 11],
+    "observaciones": "En Nariño se siembra papa temprano en febrero para evitar heladas de junio."
+  },
+  {
+    "id": "mora",
+    "nombre": "Mora",
+    "mesesSiembra": [3, 4, 10, 11],
+    "mesesCosecha": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "mesesFumigacion": [5, 6, 12],
+    "observaciones": "La mora tiene cosecha continua, pero requiere podas fuertes en meses de lluvia."
+  },
+  {
+    "id": "cafe",
+    "nombre": "Café",
+    "mesesSiembra": [4, 5, 10, 11],
+    "mesesCosecha": [4, 5, 10, 11, 12],
+    "mesesFumigacion": [2, 3, 8, 9],
+    "observaciones": "La cosecha principal (mitaca) se da entre octubre y diciembre en el norte de Nariño."
+  },
+  {
+    "id": "maiz",
+    "nombre": "Maíz",
+    "mesesSiembra": [3, 4, 9, 10],
+    "mesesCosecha": [8, 9, 2, 3],
+    "mesesFumigacion": [5, 11],
+    "observaciones": "Se recomienda sembrar con frijol para mejorar el suelo."
+  },
+  {
+    "id": "frijol",
+    "nombre": "Frijol",
+    "mesesSiembra": [3, 4, 9, 10],
+    "mesesCosecha": [7, 8, 1, 2],
+    "mesesFumigacion": [5, 11],
+    "observaciones": "Sensible a heladas, sembrar en zonas protegidas."
+  },
+  {
+    "id": "lulo",
+    "nombre": "Lulo",
+    "mesesSiembra": [3, 4, 5],
+    "mesesCosecha": [9, 10, 11, 12, 1, 2, 3, 4],
+    "mesesFumigacion": [6, 7, 8],
+    "observaciones": "Requiere riego constante en meses secos (Julio-Agosto)."
+  },
+  {
+    "id": "tomate",
+    "nombre": "Tomate",
+    "mesesSiembra": [1, 2, 3, 8, 9, 10],
+    "mesesCosecha": [4, 5, 6, 11, 12],
+    "mesesFumigacion": [2, 3, 9, 10],
+    "observaciones": "Fumigación preventiva contra la gota es clave en meses húmedos."
+  },
+  {
+    "id": "cebolla",
+    "nombre": "Cebolla",
+    "mesesSiembra": [1, 2, 7, 8],
+    "mesesCosecha": [5, 6, 11, 12],
+    "mesesFumigacion": [3, 9],
+    "observaciones": "Resistente al frío, pero requiere buen drenaje."
+  },
+  {
+    "id": "ajo",
+    "nombre": "Ajo",
+    "mesesSiembra": [8, 9, 10],
+    "mesesCosecha": [2, 3, 4],
+    "mesesFumigacion": [12, 1],
+    "observaciones": "Ciclo largo, se beneficia de los meses secos para el secado del bulbo."
+  },
+  {
+    "id": "arveja",
+    "nombre": "Arveja",
+    "mesesSiembra": [2, 3, 8, 9],
+    "mesesCosecha": [5, 6, 11, 12],
+    "mesesFumigacion": [4, 10],
+    "observaciones": "Tutorado obligatorio para evitar hongos por humedad del suelo."
+  },
+  {
+    "id": "habichuela",
+    "nombre": "Habichuela",
+    "mesesSiembra": [3, 4, 5, 9, 10, 11],
+    "mesesCosecha": [5, 6, 7, 11, 12, 1],
+    "mesesFumigacion": [4, 10],
+    "observaciones": "Ciclo corto, ideal para rotación rápida."
+  },
+  {
+    "id": "frutilla",
+    "nombre": "Frutilla",
+    "mesesSiembra": [4, 5, 10, 11],
+    "mesesCosecha": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "mesesFumigacion": [7, 8],
+    "observaciones": "Cuidado con heladas radiativas en Túquerres y Cumbal."
+  }
+]
