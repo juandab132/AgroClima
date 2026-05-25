@@ -43,3 +43,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# === Telegram Bot (Python) ===
+telegram_bot/.env
+telegram_bot/venv/
+telegram_bot/__pycache__/
+telegram_bot/**/*.pyc
+telegram_bot/.pytest_cache/
