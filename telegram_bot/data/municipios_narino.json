@@ -1,0 +1,16 @@
+{
+  "Pasto": { "lat": 1.214, "lon": -77.279, "altitud": 2527 },
+  "Túquerres": { "lat": 0.823, "lon": -77.642, "altitud": 3070 },
+  "Cumbal": { "lat": 0.841, "lon": -77.643, "altitud": 3050 },
+  "Ipiales": { "lat": 0.859, "lon": -77.641, "altitud": 2899 },
+  "La Unión": { "lat": 1.007, "lon": -77.502, "altitud": 1760 },
+  "Sandoná": { "lat": 1.379, "lon": -77.166, "altitud": 1810 },
+  "Iles": { "lat": 0.967, "lon": -77.517, "altitud": 2986 },
+  "Guachucal": { "lat": 0.963, "lon": -77.731, "altitud": 3180 },
+  "Puerres": { "lat": 0.883, "lon": -77.500, "altitud": 2817 },
+  "Tangua": { "lat": 1.096, "lon": -77.397, "altitud": 2400 },
+  "Contadero": { "lat": 0.916, "lon": -77.491, "altitud": 2475 },
+  "Chachagüí": { "lat": 1.353, "lon": -77.288, "altitud": 1950 },
+  "Buesaco": { "lat": 1.385, "lon": -77.159, "altitud": 2000 },
+  "Consacá": { "lat": 1.210, "lon": -77.460, "altitud": 1664 }
+}
